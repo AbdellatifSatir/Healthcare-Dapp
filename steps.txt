@@ -1,0 +1,16 @@
+canyon office magnet travel visa exclude south fall fade average chest fine
+
+Download MetaMask extension, create a wallet
+Create a solidity smart contract on https://remix.ethereum.org
+Deploy the contract on MetaMask
+Get the contract adress and contract abi from remix for make connection with the react app
+
+Create react app with : npx create-react-app healthcare
+cd healthcare
+remove unnecessary files : logo, reportWebVitals, setupTests
+
+npm install ethers@5.7.1
+
+Create Healthcare.js
+
+
